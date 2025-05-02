@@ -23,8 +23,8 @@ QueryDocs is a dynamic feature within ChatGenie that enables users to upload doc
 
 ![chatbot](https://github.com/user-attachments/assets/2ac197e4-f782-4c68-b6bf-e1075dfbd5f8)
 
-# 5. Image Generator Page🎨
-The Image Generator in ChatGenie leverages advanced text-to-image AI models to transform user-provided text prompts into visually compelling images. This feature allows users to generate custom visuals simply by describing the desired scene, object, or concept in natural language. Designed for creativity and ease of use, the Image Generator supports a variety of styles—ranging from realistic to artistic—and can be applied in fields like marketing, design, education, and content creation. It enhances user interaction by making visual content generation fast, intuitive, and fully AI-driven.
+# 5. PixelSynth Page🎨
+The PixelSynth in ChatGenie leverages advanced text-to-image AI models to transform user-provided text prompts into visually compelling images. This feature allows users to generate custom visuals simply by describing the desired scene, object, or concept in natural language. Designed for creativity and ease of use, the Image Generator supports a variety of styles—ranging from realistic to artistic—and can be applied in fields like marketing, design, education, and content creation. It enhances user interaction by making visual content generation fast, intuitive, and fully AI-driven.
 
 ![image generator](https://github.com/user-attachments/assets/2f9aac03-c2ad-4513-a9c6-f2137db2abbd)
 
@@ -32,3 +32,6 @@ The Image Generator in ChatGenie leverages advanced text-to-image AI models to t
 The About Us page offers visitors a comprehensive overview of the team, outlines the history, and provides insight into its goals for enhancing user experience through innovative AI technology. By showcasing the platform’s journey, achievements, and commitment to user-centric solutions, the About Us page fosters trust and transparency with users, partners, and potential collaborators.
 
 ![aboutx](https://github.com/user-attachments/assets/e8a5e448-ae81-4aad-bc8f-a05147b6908a)
+
+![feedback](https://github.com/user-attachments/assets/f5d65fc9-862a-4afd-ad58-38a87e37c20b)
+
