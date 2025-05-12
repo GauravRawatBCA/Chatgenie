@@ -3,3 +3,6 @@ google.generativeai
 firebase_admin
 streamlit
 os
+requests
+re
+image
