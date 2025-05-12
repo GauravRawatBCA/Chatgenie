@@ -6,3 +6,6 @@ os
 requests
 re
 image
+base64
+langchain
+diffiusers
