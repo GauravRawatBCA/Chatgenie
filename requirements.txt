@@ -1,2 +1,3 @@
 dotenv
 google.generativeai
+firebase_admin
