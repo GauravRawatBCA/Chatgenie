@@ -8,4 +8,7 @@ re
 image
 base64
 langchain
-diffiusers
+StableDiffusionPipeline
+torch
+Image
+BytesIO
